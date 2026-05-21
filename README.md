@@ -610,6 +610,7 @@
 - [Unity 为UI精灵烘焙阴影的工具-UIEffectsBaker](https://github.com/unitycoder/UIEffectsBaker)
 - [Unity 字体效果预览工具-Fontastic](https://github.com/unitycoder/Fontastic)
 - [Unity 将AI生成的HTML原型转换为Unity UGUI界面-HTML-to-UGUI-Baker](https://github.com/mrrizzs/HTML-to-UGUI-Baker)
+- [Unity 将3D对象烘焙为精灵动画-unity-3d-to-sprite-baker](https://github.com/sinanata/unity-3d-to-sprite-baker)
 
 </details>
 
@@ -715,6 +716,7 @@
 - [Unity 游戏内控制台日志显示工具-UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole?)
 - [Unity 基于UIToolkit界面美观的性能监视器-UniStats](https://github.com/witalosk/UniStats)
 - [Unity 性能分析工具-Unity-Performance-Profiler](https://github.com/AybarsBarut/Unity-Performance-Profiler)
+- [Unity 动态设置场景和UI不同分辨率提升渲染性能-ResoDynamix](https://github.com/CyberAgentGameEntertainment/ResoDynamix)
 
 </details>
 
@@ -869,6 +871,7 @@
 - [HLSL/GLSL的调试库-ShaderToHuman](https://github.com/electronicarts/ShaderToHuman)
 - [Unity 使用DrawMeshInstancedIndirect和WeightMap实现程序化草渲染-UnityURP-Procedural-DrawMeshInstancedIndirect](https://github.com/AkilarLiao/UnityURP-Procedural-DrawMeshInstancedIndirect)
 - [Unity ShaderLab和HLSL解析工具-UnityShaderParser](https://github.com/pema99/UnityShaderParser)
+- [Unity 实现URP平面反射功能-PlanarReflections](https://github.com/Siesta-Games/URP-PlanarReflections)
 
 </details>
 
@@ -986,6 +989,7 @@
 - [Unity 足部IK系统-IKFootPlacement](https://github.com/plonkabartosz/IKFootPlacement)
 - [Unity 可视化状态机工具-StateGraphTool](https://github.com/darkrainbowsprinkles/StateGraphTool?)
 - [Unity 可视化行为树工具-BehaviourGraphTool](https://github.com/darkrainbowsprinkles/BehaviourGraphTool)
+- [Unity 开源行为树工具-UnityBehaviourTreeEditor](https://github.com/thekiwicoder0/UnityBehaviourTreeEditor)
 - [Unity AI视觉检测方案-VisionFieldMesh](https://github.com/SinlessDevil/VisionFieldMesh?)
 - [Unity Navmesh烘焙无效区域优化工具-NavMesh-Cleaner](https://github.com/Acissathar/NavMesh-Cleaner)
 - [Unity 官方通用车辆控制器-Vehicle](https://docs.unity3d.com/Packages/com.unity.vehicles@0.1/manual/index.html)
@@ -999,6 +1003,7 @@
 - [Unity 实现类似虚幻EQS系统-Unity-Environment-Query-System](https://github.com/adammyhre/Unity-Environment-Query-System)
 - [Unity 支持各种AI大模型的Skills-Unity-Skills](https://github.com/Besty0728/Unity-Skills/tree/main)
 - [Unity 在Claude Code中通过cli操作unity-cli](https://github.com/akiojin/unity-cli)
+- [Unity 在编辑器中使用Claude Code和MCP-UniClaude](https://github.com/TheArcForge/UniClaude)
 
 </details>
 
@@ -1271,6 +1276,7 @@
 - [Unity 包含147个AI工具的MCP-unity-mcp-pro-plugin](https://github.com/youichi-uda/unity-mcp-pro-plugin)
 - [Unity 包含268个AI工具的MCP-unity-mcp-server](https://github.com/AnkleBreaker-Studio/unity-mcp-server)
 - [Unity 专为Unity编辑器打造的先进MCP服务器-funplay-unity-mcp](https://github.com/FunplayAI/funplay-unity-mcp)
+- [Unity 创建3D物体图标的工具-Icons-Creator](https://github.com/xyperine/Icons-Creator)
 - 
 </details>
 </details>
