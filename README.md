@@ -503,6 +503,7 @@
 - [Unity 模块化读语言框架-DGG-Localization](https://github.com/DaniilDGG/DGG-Localization?)
 - [Unity 简单多语言解决方案-UnitySimpleLocalization](https://github.com/DevsDaddy/UnitySimpleLocalization)
 - [Unity 强大好用的多语言解决方案-KNOT-Localization](https://github.com/V0odo0/KNOT-Localization)
+- [Unity 支持超过100多种语言的多语言方案-Localization-Unity](https://github.com/PicoShot/Localization-Unity)
 - [游戏UI音频资源结合-Unity-UI-Audio-Collection](https://github.com/DevsDaddy/Unity-UI-Audio-Collection)
 
 </details>
@@ -1188,6 +1189,7 @@
 - [Unity 2D多边形地图生成器-PolygonMapGenerator](https://github.com/p-svacha/PolygonMapGenerator)
 - [Unity 通过自然语言进行ProBuilder建模的工具-Unity-AI-ProBuilder](https://github.com/IvanMurzak/Unity-AI-ProBuilder)
 - [Unity 一款轻量级的用于跟踪资源引用工具-reference-radar](https://github.com/BroEngine/reference-radar)
+- [Unity 一款好用的收藏对象和操作历史记录工具-starred](https://github.com/landosilva/starred)
 
 </details>
 
